@@ -1,0 +1,1 @@
+module.exports.earthRadius = 6371.0;
